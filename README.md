@@ -22,4 +22,12 @@
  git add .
  git commit -m 'Version Inicial'
 10.	Agregar al README.md los comandos que ejecutaron en cada paso.
-add
+
+11.	Crear un nuevo commit con el mensaje “Agrega solución primer ejercicio
+ git add .
+ git commit -m 'Agrega Solución primer ejercicio'
+
+12.	Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1.
+ git remote add origin https://github.com/MoniDevOrtiz/aspirantes-mir-ejercicio-1.git
+ git branch -M main
+ git push -u origin main
