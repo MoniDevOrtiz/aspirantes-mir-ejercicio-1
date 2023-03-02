@@ -5,7 +5,7 @@
 3.	Cambiar la ubicación a la nueva carpeta que crearon.
  cd ejercicios
 4.	Abrir la carpeta con VSCode.
- 
+ code .
 5.	En VSCode crear una carpeta ejercicio1.
  mkdir ejercicio1
  ls => para ver que la carpeta se creo.
